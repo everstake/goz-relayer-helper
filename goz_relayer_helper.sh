@@ -122,7 +122,7 @@ GAMEOF=gameofzoneshub-1b
 EVERSTAKE=everstakechain-1b
 FUNDS="everstakechain-1b"
 PATHS="everstakechain-1b:game3;cosmos1zt57587dk595090gdtsy"
-CHATID=549948140
+CHATID=541111140
 BOTNUMBER1=11111111:AAFoOdfgdfdgdgfdfWuEQ
 FAUCET="http://faucet_ip:faucet:port"
 
